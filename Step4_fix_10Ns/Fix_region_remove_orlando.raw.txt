@@ -1,0 +1,14 @@
+Remove ID, FC
+PGA_5	Chr2_orlando_sequence
+PGA_6	Chr2_orlando_sequence
+PGA_12	Chr3_orlando_sequence
+PGA_13	Chr3_orlando_sequence
+PGA_75	Chr9_orlando_sequence
+PGA_76	Chr9_orlando_sequence
+
+Mask ID, FC
+PGA_7	7165291	1:1349467	Chr2_orlando_sequence
+PGA_14	8525887	1:5896686	Chr3_orlando_sequence
+PGA_70	14874394	8031511:14783643	Chr9_orlando_sequence
+PGA_74	2573805	1:102160	Chr9_orlando_sequence
+PGA_77	7770126	1:123831	Chr9_orlando_sequence
